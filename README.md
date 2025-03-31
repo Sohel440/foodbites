@@ -1,6 +1,6 @@
 # FoodBite - Online Restaurant App 🍽️🚀
 
-FoodBite is a modern **online restaurant app** built with **React**, offering a seamless food ordering experience. Users can **browse menus, add items to the cart, place orders, and track delivery status** in real time.
+FoodBite is a modern, feature-rich online restaurant app built with React. It offers a seamless and intuitive food ordering experience, allowing users to browse menus, filter items, add products to the cart, place orders.
 
 ## 🚀 Features
 ✅ User-friendly UI with React & Vite  
