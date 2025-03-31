@@ -10,11 +10,8 @@ FoodBite is a modern **online restaurant app** built with **React**, offering a 
 ✅ Fast & Optimized Performance  
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Vite, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** Firebase / MongoDB
-- **Authentication:** Firebase Auth / JWT
-- **Deployment:** Vercel / Netlify
+- **Frontend:** React, Vite, vanila CSS
+- **Deployment:** Vercel 
 
 ## 📦 Installation
 
