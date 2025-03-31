@@ -37,7 +37,8 @@ FoodBite is a modern, feature-rich online restaurant app built with React. It of
    ```
 
 ## 🔗 Live Demo
-*[[Add your Vercel/Netlify link here](https://foodbites-woad.vercel.app/)]*
+*[[FoodBite](https://foodbites-woad.vercel.app/)]*
+
 
 ## 🤝 Contributing
 Feel free to fork this project and submit a pull request! Any contributions are welcome.  
